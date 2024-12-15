@@ -1,10 +1,10 @@
 <div align="center">
-
-<img style="height: 90px; width: auto;" src="/assets/HiImSam.png" alt="GitHub Streak" />
+<br>
+<img style="height: 80px; width: auto;" src="/assets/HiImSam.png" alt="GitHub Streak" />
 
 <br><br>
 
-I'm a self-taught Frontend web developer with 10 years of hobby experience and 2 years of professional experience working at Pinax.
+I'm a canadian Frontend web developer with 10 years of hobby experience and 2 years of professional experience working at Pinax.
 
 <br><br>
 

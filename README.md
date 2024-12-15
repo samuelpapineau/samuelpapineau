@@ -14,7 +14,7 @@ I'm a self-taught Frontend web developer with 10 years of hobby experience and 2
 
 ### Some of my stats:
 
-| <a href="https://github.com/samuelpapineau/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-samuelpapineaus-projects.vercel.app/api?username=samuelpapineau&show_icons=true&include_all_commits=true&theme=codeSTACKr&layout=compact" /></a> | <a href="https://github.com/samuelpapineau/README.md"><img align="center" src="https://github-readme-stats-git-master-samuelpapineaus-projects.vercel.app/api/top-langs/?username=samuelpapineau&show_icons=true&theme=codeSTACKr&layout=compact" /></a> |
+| <a href="https://github.com/samuelpapineau/github-readme-stats"><img align="center" src="https://github-readme-stats-git-master-samuelpapineaus-projects.vercel.app/api?username=samuelpapineau&show_icons=true&include_all_commits=true&theme=codeSTACKr&layout=compact" /></a> | <a href="https://github.com/samuelpapineau/README.md"><img align="center" src="https://github-readme-stats-git-master-samuelpapineaus-projects.vercel.app/api/top-langs/?username=samuelpapineau&show_icons=true&theme=codeSTACKr&exclude_repo=week-five&layout=compact" /></a> |
 | ---------- | ---------- |
 
 <br><br>

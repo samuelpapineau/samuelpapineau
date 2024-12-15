@@ -1,7 +1,8 @@
 <div align="center">
-  
-# Hi! I'm Sam
 
+<img style="height: 100px; width: auto;" src="/assets/HiImSam.png" alt="GitHub Streak" />
+
+---
 <br>
 
 I'm a self-taught Frontend web developer with 10 years of hobby experience and 2 years of professional experience working at Pinax.

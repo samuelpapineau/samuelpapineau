@@ -8,7 +8,7 @@ I'm a self-taught Frontend web developer with 10 years of hobby experience and 2
 
 <br><br>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=samuelpapineau&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=samuelpapineau&theme=sunset-gradient&mode=weekly" alt="GitHub Streak" /></a>
 
 <br><br>
 

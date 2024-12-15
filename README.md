@@ -20,10 +20,10 @@ I'm a canadian Frontend web developer with 10 years of hobby experience and 2 ye
 <br><br>
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/samuelpapineau/personal-site">
   <img align="center" src="https://github-readme-stats-git-master-samuelpapineaus-projects.vercel.app/api/pin/?username=samuelpapineau&show_icons=true&theme=codeSTACKr&repo=personal-site" />
 </a> 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/samuelpapineau/lyric-video-generator">
   <img align="center" src="https://github-readme-stats-git-master-samuelpapineaus-projects.vercel.app/api/pin/?username=samuelpapineau&show_icons=true&theme=codeSTACKr&repo=lyric-video-generator" />
 </a>
 

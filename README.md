@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<img style="height: 80px; width: auto;" src="/assets/HiImSam.png" alt="GitHub Streak" />
+<img style="height: 70px; width: auto;" src="/assets/HiImSam.png" alt="GitHub Streak" />
 
 <br><br>
 
